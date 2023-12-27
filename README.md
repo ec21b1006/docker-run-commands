@@ -63,6 +63,7 @@
 - `--init` = Run an init inside the container that forwards signals and reaps processes
 - `--interactive` or `-i` = Keep STDIN open if not attached
 - `--ip` = IPv4 address
+    > Read more here : [Static IP in containers](https://stackoverflow.com/questions/27937185/assign-static-ip-to-docker-container)
 - `--ip6` = IPv6 address
 - `--ipc` = IPC mode to use (host or shareable or container:name)
     > Read more here : [What Is Ipc In Docker Container Command With Code Examples](https://linuxhint.com/what-is-ipc-in-docker-container-command-with-code-examples/)
